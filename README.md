@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Sengul</h1>
 <h3 align="center">Data scientist with experience in data manipulation, visualization, modeling, and production. Cloud lover & learner with ML& DS knowledge who have effective communication and intellectual curiosity.</h3>
 
