@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **sengulkaraderili@gmail.com**
 
-https://linkpop.com/sengul 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
