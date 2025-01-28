@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sengul</h1>
 <h3 align="center">Data scientist with experience in data manipulation, visualization, modeling, and production. Cloud lover & learner with ML& DS knowledge who have effective communication and intellectual curiosity.</h3>
 
-- 🔭 I’m currently working at **CCI**
+- 🔭 I’m currently working as a Sr. Data Scientist
 
 - 📝 I regularly write articles on [https://sengul-krdrl.medium.com](https://sengul-krdrl.medium.com)
 
